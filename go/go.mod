@@ -1,3 +1,3 @@
-module github.com/emilybache/gildedrose-refactoring-kata
+module gildedrose
 
-go 1.18
+go 1.19
